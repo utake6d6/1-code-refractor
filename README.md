@@ -30,10 +30,10 @@ Screenshot URL:
 
 <h2>
 Repository URL:
-<a href="https://github.com/utake6d6/1-code-refractor.git"> https://github.com/utake6d6/1-code-refractor.git</a>
+<a href="https://github.com/utake6d6/1-code-refractor.git">https://github.com/utake6d6/1-code-refractor.git</a>
 </h2>
 
 <h2>
 Website URL:
-<a href="https://utake6d6.github.io/1-code-refractor/"</a> https://utake6d6.github.io/1-code-refractor/</a>
+<a href="https://utake6d6.github.io/1-code-refractor/"</a>https://utake6d6.github.io/1-code-refractor/</a>
 </h2>
