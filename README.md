@@ -25,7 +25,7 @@ THEN I find a concise, descriptive title
 
 <h2>
 Screenshot URL:
-<a href=""</a> 
+<a href="https://postimg.cc/kBgm0Z9b">https://postimg.cc/kBgm0Z9b</a> 
 </h2>
 
 <h2>
